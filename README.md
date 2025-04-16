@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 # *Hello world!*
-**Senketximus** - UNA - Artes Multimediales
+**Senketximus** - UNA - Artes Multimediales - 2025
 
 <!---
 Senketximus/Senketximus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
